@@ -16,7 +16,7 @@ from time import sleep
 requests.urllib3.disable_warnings()
 
 # 初始化环境变量
-cs = 1    # 如非青龙运行或不需要变量请改为2
+cs = 0    # 如非青龙运行或不需要变量请改为2
 cxt = 10  # 重试等待时间（秒）
 ttoken = ""
 tuserid = ""
