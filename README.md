@@ -7,7 +7,7 @@
 ## 🌟 一键使用（青龙订阅）
 
 ```bash
-ql repo https://ghproxy.com/https://github.com/leoz28/sspsign/raw/main/ssp.py
+ql repo https://github.com/leoz28/sspsign.git
 ```
 
 📌 如果你想 **本地直接运行** 或 **不使用环境变量**，请修改脚本开头的：
