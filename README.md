@@ -1,5 +1,5 @@
 # sspsign
-SSP机场通用签到，支持青龙和action，支持多网站多账号批量签到
+SSP机场通用签到，支持青龙和action，支持多网站多账号批量签到,增加bark推送
 ## 各位既然用了那就随手点个Satr行不行
 ## 使用方式
 `ql repo https://ghproxy.com/https://github.com/wdvipa/sspsign/raw/main/ssp.py`
