@@ -1,7 +1,3 @@
-当然可以，下面是重构后的 README.md，更清晰、结构更规范，包含对 Bark 推送的支持说明，适合展示在 GitHub 上：
-
-⸻
-
 ✈️ sspsign – 多机场签到自动化脚本
 
 支持 多账号、多机场批量签到，兼容常见机场面板，支持 青龙面板 和 GitHub Actions，内置 失败重试机制，并支持 多平台推送（含 Bark 图标）。
@@ -10,7 +6,7 @@
 
 🌟 一键使用（青龙订阅）
 
-ql repo https://ghproxy.com/https://github.com/wdvipa/sspsign/raw/main/ssp.py
+ql repo https://ghproxy.com/https://github.com/leoz28/sspsign/raw/main/ssp.py
 
 📌 如果你想本地直接运行或不使用环境变量，请修改脚本开头的 cs = 2。
 
@@ -81,7 +77,3 @@ ssp_barkicon	Bark 图标地址（可选）	URL
 ⸻
 
 如需更多定制功能（如 Bark 推送声音/跳转 URL/分组等），欢迎提交 Issue 或 PR！
-
-⸻
-
-是否需要我直接为你生成一个实际可用的 README.md 文件？
